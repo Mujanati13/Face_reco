@@ -6,7 +6,7 @@ import Shedules from './components/Shedules';
 import './tailwind/output.css'
 import { Route , Routes , BrowserRouter } from 'react-router-dom';
 import Presence from './components/Presence';
-import Adminpresence from './components/Admin/Adminpresence';
+import Adminpresence from './components/Adminpresence';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
